@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+CV: http://jelle-m.github.io/cv
+
 Keep CV on GitHub. Host it on GitHub pages.
 
 ## Credit
